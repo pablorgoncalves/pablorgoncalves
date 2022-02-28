@@ -11,8 +11,10 @@
 
 ### Technologies
 
-![html5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![css3](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Html5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![Css3](https://img.shields.io/badge/-CSS-000?&logo=Css3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Arduino](https://img.shields.io/badge/-React-000?&logo=arduino)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
