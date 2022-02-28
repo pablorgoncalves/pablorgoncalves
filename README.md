@@ -27,3 +27,4 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![AamazonAlexa](https://img.shields.io/badge/-AamazonAlexa-000?&logo=amazonalexa)
