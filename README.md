@@ -17,4 +17,5 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
