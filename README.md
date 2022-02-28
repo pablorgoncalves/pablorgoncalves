@@ -3,6 +3,7 @@
 
 ### Languages
 
+/github/pipenv/locked/python-version/:user/:repo
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
