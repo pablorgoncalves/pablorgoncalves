@@ -12,7 +12,7 @@
 ### Technologies
 
 ![Informatica](https://img.shields.io/badge/-IT-000?&logo=informatica)
-![ScrumAlliance](https://img.shields.io/badge/-ScrumAlliance-000?&logo=scrumalliance)
+![Scrum Alliance](https://img.shields.io/badge/-ScrumAlliance-000?&logo=scrumalliance)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -27,4 +27,4 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
-![AamazonAlexa](https://img.shields.io/badge/-AamazonAlexa-000?&logo=amazonalexa)
+![Amazon Alexa](https://img.shields.io/badge/-AamazonAlexa-000?&logo=amazonalexa)
