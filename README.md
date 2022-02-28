@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=react)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress)
 ![Pytest](https://img.shields.io/badge/-Pytest-000?&logo=pytest)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
