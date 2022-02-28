@@ -15,3 +15,4 @@
 ![css3](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Arduino](https://img.shields.io/badge/-React-000?&logo=arduino)
