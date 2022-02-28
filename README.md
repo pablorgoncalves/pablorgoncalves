@@ -17,6 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress)
+![Pytest](https://img.shields.io/badge/-Pytest-000?&logo=pytest)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json)
