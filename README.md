@@ -11,11 +11,17 @@
 
 ### Technologies
 
-![Html5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![Css3](https://img.shields.io/badge/-CSS-000?&logo=Css3)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Informatica](https://img.shields.io/badge/-Informatica-000?&logo=informatica)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![JSON](https://img.shields.io/badge/-Django-000?&logo=json)
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=insomnia)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
-![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
